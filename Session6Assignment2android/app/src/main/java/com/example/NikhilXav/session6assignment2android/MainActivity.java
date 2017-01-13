@@ -1,4 +1,4 @@
-package com.example.pratikratnaparkhi.session6assignment2android;
+package com.example.NikhilXav.session6assignment2android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
